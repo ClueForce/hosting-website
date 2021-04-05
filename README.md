@@ -7,6 +7,6 @@ Project is: _Unfinished_
 Join Support Server if you have any Problem, [Click Me](https://dsc.gg/clueforce)
 
 ## License
->You can check out the full license [here](https://github.com/ClueForce/hosting-website/blob/master/LICENSE)
+>You can check out the full license [here](https://github.com/ClueForce/hosting-website/blob/main/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
